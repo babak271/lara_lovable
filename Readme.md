@@ -1,6 +1,6 @@
 # Laravel + React Template for Lovable Projects
 
-A fully-configured, production-ready template combining **Laravel** (API-first backend) with **React** (frontend) — designed for [Lovable](lovable.dev) projects that need a fast start without fighting boilerplate.
+A fully-configured, production-ready template combining **Laravel** (API-first backend) with **React** (frontend) — designed for [Lovable](https://lovable.dev) projects that need a fast start without fighting boilerplate.
 
 ## 🚀 Features
 
